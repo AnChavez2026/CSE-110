@@ -1,4 +1,4 @@
-# About Angel c
+# About Angel
 
 ## My interests in Computer Engineering
 1. Computer hardware
