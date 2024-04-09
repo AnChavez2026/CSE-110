@@ -27,7 +27,7 @@
 
 ## Lessons learned during this lab
 * Using `git add` was an important first step when trying to commit a new file to my work
-* How to link to other files [README ](README.md)
+* How to link to other files [README ](README.md) 
 
 ## Hobbies
 In my free time, I love playing video games with friends, 
